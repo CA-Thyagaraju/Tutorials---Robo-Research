@@ -3,10 +3,12 @@
 <package format="3">
   <name>tutorial_1</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="ca-thyagaraju@todo.todo">ca-thyagaraju</maintainer>
-  <license>TODO: License declaration</license>
-
+  <description>
+  ROS 2 tutorial package demonstrating core ROS 2 concepts using Python and turtlesim.
+  </description>
+  <maintainer email="cathyagaraju2000@gmail.com">Achutha Thyagaraju</maintainer>
+  <license>MIT</license>
+  
   <depend>rclpy</depend>
   <depend>geometry_msgs</depend>
   <depend>turtlesim</depend>

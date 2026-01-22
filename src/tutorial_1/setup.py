@@ -13,10 +13,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='ca-thyagaraju',
-    maintainer_email='ca-thyagaraju@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer='Achutha Thyagaraju',
+    maintainer_email='cathyagaraju2000@gmail.com',
+    description='ROS 2 tutorial package demonstrating core concepts using turtlesim',
+    license='MIT',
     extras_require={
         'test': [
             'pytest',
