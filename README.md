@@ -8,10 +8,10 @@ The workspace is designed to scale, with each tutorial implemented as an indepen
 
 ## Repository Structure
 
-ros2_tutorials_ws/
-      └── src/
-      ├── tutorial_1/
-      └── tutorial_2/ (future)
+      ros2_tutorials_ws/
+            └── src/
+            ├── tutorial_1/
+            └── tutorial_2/ (future)
 
 Each package inside `src/` represents a self-contained tutorial focusing on specific ROS 2 concepts.
 
