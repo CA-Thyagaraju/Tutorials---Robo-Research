@@ -10,7 +10,9 @@ The workspace is designed to scale, with each tutorial implemented as an indepen
 
 ros2_tutorials_ws/
 └── src/
+
 ├── tutorial_1/
+
 └── tutorial_2/ (future)
 
 
