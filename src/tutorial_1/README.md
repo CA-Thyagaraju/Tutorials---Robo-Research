@@ -69,10 +69,12 @@ It focuses on node creation, timed execution, topic-based communication, and clo
 Ensure `turtlesim` is running:
 ```bash
 ros2 run turtlesim turtlesim_node
+```
 
 Run individual nodes as required:
-
+```bash
 ros2 run tutorial_1 test_node
 ros2 run tutorial_1 draw_circle
 ros2 run tutorial_1 pose_subscriber
 ros2 run tutorial_1 turtle_controller_cl
+```
